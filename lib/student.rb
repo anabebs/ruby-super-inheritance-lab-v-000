@@ -5,4 +5,7 @@ def Hello
   
 end 
 
+def raise_hand
+  puts 
+
 end
